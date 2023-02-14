@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Media_alunos {
+public class Main {
     public static void main(String[] args) {
         String[] nomes = new String[5];
 

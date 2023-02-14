@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Sorteio {
+public class Main {
     public static void main(String[] args) {
         Random gerador = new Random();
         int numeroSorteado = gerador.nextInt(100); // sorteia um número de 0 a 99

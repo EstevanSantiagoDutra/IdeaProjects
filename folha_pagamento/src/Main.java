@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FolhaDePagamento {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String[] nomes = new String[5];
