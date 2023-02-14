@@ -1,6 +1,8 @@
+package src;
+
 import javax.swing.JOptionPane;
 
-public class Salario {
+public class mediasalarial {
     public static void main(String[] args) {
         double salario1, salario2, salario3, salario4, salario5, media;
 

@@ -23,6 +23,7 @@ public class Main {
         for (int i = 0; i < 5; i++) {
             if (notas[i]>=media) {
                 System.out.println("Aluno n°" + i + " : "+nomes[i]+" Passou com nota: " + notas[i]);
+                break;
             }
         }
     }

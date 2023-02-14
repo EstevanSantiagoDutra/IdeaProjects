@@ -6,9 +6,9 @@ public class Numerosaleatorios {
         int number1;
         int number2;
 
-            System.out.print("Enter first interger: ");
+            System.out.print("Entre com o primeiro numero: ");
             number1 = input.nextInt();
-            System.out.print("Enter second interger: ");
+            System.out.print("Entre com o segundo numero: ");
             number2 = input.nextInt();
 
             if (number1 == number2)
