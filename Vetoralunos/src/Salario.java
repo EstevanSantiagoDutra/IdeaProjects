@@ -2,7 +2,7 @@ import javax.swing.*;
 
 import java.util.Scanner;
 
-public class alunosnotas {
+public class salarios {
     public static void main(String[] args) {
         String[] nome = new String[5];
         String[] sexo = new String[5];
@@ -26,7 +26,7 @@ public class alunosnotas {
                     System.out.println("Sexo valido");
                     infoValida = true;
                 } else {
-                    System.out.println("Sexo invalido camarada");
+                    System.out.println("Sexo invalido");
                 }
             } while (!infoValida);
 
