@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="317623ac-7b72-4d93-8eb1-6476f76cbf19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../mediaalunos/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mediaalunos/out/production/mediaalunos/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mediaalunos/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media_alunos/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mediaalunos/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media_alunos/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mediaalunos/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media_alunos/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mediaalunos/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media_alunos/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media_alunos/Media_alunos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mediaalunos/mediaalunos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media_alunos/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorteio_100_numeros/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorteio_100_numeros/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorteio_100_numeros/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorteio_100_numeros/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorteio_100_numeros/sorteio_100_numeros.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sorteiode100numeros.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorteio_100_numeros/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LjcIvVl8aCUOj6pt6TD7Wd5CBz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="317623ac-7b72-4d93-8eb1-6476f76cbf19" name="Changes" comment="" />
+      <created>1676387864204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676387864204</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
