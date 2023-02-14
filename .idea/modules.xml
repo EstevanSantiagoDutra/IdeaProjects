@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AntecessorSucessor/AntecessorSucessor.iml" filepath="$PROJECT_DIR$/AntecessorSucessor/AntecessorSucessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculate/Calculate.iml" filepath="$PROJECT_DIR$/Calculate/Calculate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exerciciodemulti/Exerciciodemulti.iml" filepath="$PROJECT_DIR$/Exerciciodemulti/Exerciciodemulti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomensMulheres/HomensMulheres.iml" filepath="$PROJECT_DIR$/HomensMulheres/HomensMulheres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IMC/IMC.iml" filepath="$PROJECT_DIR$/IMC/IMC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Impostosobreoprodutointernobruto/Impostosobreoprodutointernobruto.iml" filepath="$PROJECT_DIR$/Impostosobreoprodutointernobruto/Impostosobreoprodutointernobruto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Meuprimeiroprojeto/Meuprimeiroprojeto.iml" filepath="$PROJECT_DIR$/Meuprimeiroprojeto/Meuprimeiroprojeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Meuprojeto/Meuprojeto.iml" filepath="$PROJECT_DIR$/Meuprojeto/Meuprojeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Salariominimo/Salariominimo.iml" filepath="$PROJECT_DIR$/Salariominimo/Salariominimo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Saldocomporcentagens/Saldocomporcentagens.iml" filepath="$PROJECT_DIR$/Saldocomporcentagens/Saldocomporcentagens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tabuada/Tabuada.iml" filepath="$PROJECT_DIR$/Tabuada/Tabuada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrela/estrela.iml" filepath="$PROJECT_DIR$/estrela/estrela.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/exercicios/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicodeclasse/exercicodeclasse.iml" filepath="$PROJECT_DIR$/exercicodeclasse/exercicodeclasse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/joptioncomando/joptioncomando.iml" filepath="$PROJECT_DIR$/joptioncomando/joptioncomando.iml" />
+      <module fileurl="file://$PROJECT_DIR$/media/media.iml" filepath="$PROJECT_DIR$/media/media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numeros aleatorios/numeros aleatorios.iml" filepath="$PROJECT_DIR$/numeros aleatorios/numeros aleatorios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testeswitch/testeswitch.iml" filepath="$PROJECT_DIR$/testeswitch/testeswitch.iml" />
+    </modules>
+  </component>
+</project>
