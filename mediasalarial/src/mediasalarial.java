@@ -14,6 +14,6 @@ public class mediasalarial {
 
         media = (salario1 + salario2 + salario3 + salario4 + salario5) / 5;
 
-        JOptionPane.showMessageDialog(null, "A média dos salários é: " + media);
+        JOptionPane.showMessageDialog(null, "A média dos salários é: " + String.format("%.2f", media));
     }
 }
